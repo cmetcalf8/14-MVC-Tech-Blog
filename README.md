@@ -16,7 +16,7 @@ In the command line you need to run "npm i" to download the dependencies. Then i
 
 ## Usage
 
-Link to Heroku: https://git.heroku.com/mvc-tech-blog-1414.git
+Link to Heroku: https://mvc-tech-blog-1414.herokuapp.com/
 
 
 
