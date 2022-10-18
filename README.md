@@ -2,7 +2,7 @@
 
 ## Description
 
-Used the Model View Controller (MVC) paradigm to create a blogging website where people can create an account, edit their info, post, and comment on other's posts. 
+Used the Model View Controller (MVC) paradigm to create a blogging website where people can create an account, edit their info, post, and comment on other's posts. Correction.
 
 ## Table of Contents
 
